@@ -45,8 +45,6 @@ pip install -r requirements.txt
 ```sql
 CREATE DATABASE airlines;
 USE airlines;
-
--- Add your full schema here
 ```
 
 Or use the file `flight_booking_schema.sql`.
